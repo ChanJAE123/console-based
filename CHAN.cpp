@@ -7,19 +7,8 @@ using namespace std;
 
 /* 
 
-NOTE: 
-
-TO DO:
-
-DATA STRUCTURE: ARRAY
-
-OPERATIONS:
-insert
-delete
-search
-display
-load
-save
+NOTE: Sir may built-in function po na hindi nagana sa ibang IDE pero sa VS Code po ay nagana po sya, yun po yung "system("cls");"
+pero may alternative naman po para sa ibang IDE.
 
 */
 
@@ -58,9 +47,6 @@ void quiting() // !!OKAY NA!!
 
 void display() // !! OKAY NA !!
 {
-    
-// modify make it look more complex
-// ask first the user if he/she want to display the datas by sorted or by time input;
 
 
     system("cls");
